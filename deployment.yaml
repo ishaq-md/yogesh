@@ -2,7 +2,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: java-config
+  name: java-config-ddddd
 data:
   game.properties: |
     enemy.types=aliens,monsters
