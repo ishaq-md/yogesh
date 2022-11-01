@@ -2,7 +2,7 @@
 apiVersion: autoscaling/v2beta2
 kind: HorizontalPodAutoscaler
 metadata:
-  name: java-hpa
+  name: java-hpadpa
 spec:
   scaleTargetRef:
     apiVersion: apps/v1
